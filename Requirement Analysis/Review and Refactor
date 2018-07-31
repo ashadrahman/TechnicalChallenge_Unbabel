@@ -1,0 +1,26 @@
+Five things which I want to change, why and how:
+
+1.	Look and Feel of the Annotation Tool
+  a.	Why: Look and Feel of the annotation tool has room for improvements. 
+  b.	How: I can suggest improving the look and feel by following ways:
+    i.	Keeping the layout simple
+    ii.	Choose a color theme
+    iii.Choose an imagery that reflects the user or has context for the text on the page.
+    iv.	Choose typography that compliments the mood of the website.
+    
+2.	Clicking the Back button
+  a.	Why: Upon clicking the back button, it shows a dialog pop-up "Leave Site? Changes you made may not be saved". There is no saving option there as well.
+  b.  How: I want to give saving option on the pop-up as well. This would make the navigation process more smoother.
+  
+3. "Still there? Idle message."
+  a. Why: Most of the time when user try to navigate to other pages or so, it would display everytime this message "Still there? Idle message" which can be annoying sometimes.
+  b. How: I wish to implement more smarter way of time management. There should be pause and restart buttons for start and stop timer. The user should himself click on the start timer button to start and pause button to take break.
+  
+4. There should be notes dialog box attached with each error raised
+  a. Why: They are no notes boxes.
+  b. How: I would really want to provide notes textbox with each error raised, so that the user can give optional comments along with the selection, error type and severity.
+          This would help understand why that issue is raised in a better way.
+          
+5. The text selected or annotated and the notes made against them should be indexed and searchable for future references.
+  a. Why: This is important to go back and look for any similar issues. This data can also be used for data analysis.
+  b. How: There should be a global search box, in which we can search the batches and related tasks annotated.

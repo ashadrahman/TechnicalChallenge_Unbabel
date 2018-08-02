@@ -8,13 +8,13 @@ Five things which I want to change, why and how:
     iii.Choose an imagery that reflects the user or has context for the text on the page.
     iv.	Choose typography that compliments the mood of the website.
     
-2.	Clicking the Back button
+2. Clicking the Back button
   a.	Why: Upon clicking the back button, it shows a dialog pop-up "Leave Site? Changes you made may not be saved". There is no saving option there as well.
   b.  How: I want to give saving option on the pop-up as well. This would make the navigation process more smoother.
   
-3. "Still there? Idle message."
-  a. Why: Most of the time when user try to navigate to other pages or so, it would display everytime this message "Still there? Idle message" which can be annoying sometimes.
-  b. How: I wish to implement more smarter way of time management. There should be pause and restart buttons for start and stop timer. The user should himself click on the start timer button to start and pause button to take break.
+3. There is no "Forgot Password" option on the Sign In page.
+  a. Why: Many times users tend to forget their passwords, so there should be some mechanism to handle this issue.
+  b. How: I would like to implement forget password option on the sign in page. Upon forgetting the password the user should click on that option to enter the username(email id) and the reset password email should be sent to that specified email id.
   
 4. There should be notes dialog box attached with each error raised
   a. Why: They are no notes boxes.

@@ -1,21 +1,31 @@
 FUNCTIONAL SPECIFICATION FOR LOGIN FORM
 
-Login Form UI
 This form asks to enter e-mail and password to access web site.
  
 
 Controls description:
+
 •	E-mail Address:
-  •	Textbox with maximum 320 chars [Note: 320 is maximum allowed email length according the spec], empty by default.
+  •	Textbox with maximum 320 chars [Note: 320 is typical maximum allowed email length], empty by default.
   •	Placeholder – ‘Enter email address’.
+  
 •	Textbox with maximum 128 chars. When user types password then display ‘*’ instead of entered chars.
   •	Empty by default.
   •	Placeholder – ‘Password’.
 •	Checkbox ‘Show Password’. It can be either Select or Unselected. Unselected  –  by default. So, if it is selected, then show password without ‘*’.
 
+
 Clicking ‘Log In’ does the following:
 •	If mandatory fields were not provided yet then a red error message is displayed below the title, saying ‘Field ‘<field name>’ is mandatory.’. Pre-populate all e-mail and password.
+
 •	If e-mail address was provided, but such e-mail is not registered in the system then a red error message is displayed below the title, saying ‘Invalid e-mail or password.’. Pre-populate all e-mail and password. [Note: system does not tell real reason to avoid hacking]
+
 •	If Password was provided but does not correspond the provided e-mail then an error red message is displayed below the title, saying ‘Invalid e-mail or password.’. Pre-populate all e-mail and password. [Note: system does not tell real reason to avoid hacking]
+
 •	In additional, if all fields were provided and OK, but a system error occurred, then a red error message is displayed below the title saying ‘Operation failed. Please try again and if an error occurs again please contact your administrator.’. Pre-populate all e-mail and password.
+
+•	Forgot Password link - if user forgets password then user click on that option to enter the username(email id) and the reset password email is sent to that specified email id.
+
 •	If all fields are OK then open the Home page.
+
+

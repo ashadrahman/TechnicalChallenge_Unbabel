@@ -6,13 +6,16 @@ This form asks to enter e-mail and password to access web site.
 Controls description:
 
 •	E-mail Address:
-  •	Textbox with maximum 320 chars [Note: 320 is typical maximum allowed email length], empty by default.
+  •	Textbox with maximum 320 chars [Note: Typical maximum length is 320 characters], empty by default.
   •	Placeholder – ‘Enter email address’.
+  •	The general format of email address is local-part@domain
   
-•	Textbox with maximum 128 chars. When user types password then display ‘*’ instead of entered chars.
+•	Password: 
+  •	Textbox with maximum 128 chars [Note: Typical maximum length is 128 characters]. When user types password then display ‘*’ instead of entered chars.
   •	Empty by default.
   •	Placeholder – ‘Password’.
-•	Checkbox ‘Show Password’. It can be either Select or Unselected. Unselected  –  by default. So, if it is selected, then show password without ‘*’.
+  •	Common guidelines advocated by proponents of software system security include: Use a minimum password length of 8 or more characters if permitted. Include lowercase and uppercase alphabetic characters, numbers and symbols if permitted.
+
 
 
 Clicking ‘Log In’ does the following:

@@ -1,6 +1,6 @@
 Five specific example of things which I want to improve in the Annotation tool document:
 
-1.	Link of the Annotation tool in the document is not working (giving error).
+1. Link of the Annotation tool in the document is not working (giving error).
   a.	Why: The link should be correct provided the user clicks and easily access the annotation link.
   b.	How: Replacing the old link with the current link which is working.
     

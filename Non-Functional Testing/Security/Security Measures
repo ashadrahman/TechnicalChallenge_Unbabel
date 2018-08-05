@@ -1,0 +1,9 @@
+The point which I would like to mention here from security perspective is:
+
+1. When I tried to logout from the Annotation Tool by clicking the logout option-> the page successfully got logged out.
+2. After getting logged out -> landed on the sign in page of the annotation tool.
+3. Now when I tried to click back arrorw to try to break the login, in one click it didn't went back to the logged-in page, but on another click of the back arrow->
+it actually landed in the logged in page (without actually signing-in!!).
+
+This loop-hole can cause data theft of the translations(without even logging in). This may lead to security breach.
+Actually even after multiple clicks of back arrow it should not have landed back on the logged-in page. It should have kept the user logged-out in any situation, once a log-out happens.

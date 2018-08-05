@@ -45,5 +45,6 @@ Resume Annotation
 
 
 Finish Annotation
-1. After completion of the task, click on Finsh.
-2. Click on the Done button to submit the annotations and fluency score for the text that is just annotated. This will save all the annotations done for that text and lead to the next text to be annotated.
+1. After completion of the task, click on Finish or Report -> Click on Finsh radio button under 'What do you want to do?'
+2. Select the number of stars for Task Fluency and add some Task comment
+3. Click on the Finish button to submit the annotations and fluency score for the text that is just annotated. This will save all the annotations done for that text and lead to the next task to be annotated.

@@ -1,5 +1,9 @@
 Test Plan 
 
+Testing Objectives and Tasks: The testing objective is to execute the functional test scenarios of the Annotation Tool.
+
+Scope: The scope of functional testing is following - Login, Choose one task, Perform Annotation, Take a break, Resume Annotation, Finish Annotation
+
 Login
 
 1. Navigate to the link: https://staging.annotation.tools.unbabel.com/

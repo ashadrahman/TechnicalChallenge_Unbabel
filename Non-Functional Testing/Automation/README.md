@@ -14,9 +14,9 @@ Steps to run the automation script:
 
 7. Right click on the 'TechnicalChallenge'-> select Build Path -> select Configure Build Path -> 'Properties for TechnicalChallenge' dialogue box will open up
 
-8. Under the Java Build Path-> select Libraries Tab-> Click on add external JARS button-> add the selenium (selenium-server-standalone-3.12.0.jar) file
+8. Under the Java Build Path-> select Libraries Tab-> Click on add external JARS button-> and add the already downloaded selenium (selenium-server-standalone-3.12.0.jar) file
 
-9. Under the same Libraries tab, select and remove the already mentioned 'selenium-server-standalone-3.13.0.jar - F:\Sanjay\Selenium\SeleniumFile (missing)'
+9. Under the same Libraries tab, select and remove the already added 'selenium-server-standalone-3.13.0.jar - F:\Sanjay\Selenium\SeleniumFile (missing)' file
 
 10. Click Apply and OK on the 'Properties for TechnicalChallenge' dialogue box
 

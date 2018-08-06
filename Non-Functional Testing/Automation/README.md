@@ -10,6 +10,11 @@ Selenium jar file can downloaded from here: https://www.seleniumhq.org/download/
 
 Java can be downloaded from here: https://java.com/en/download/
 
+Chrome browser can be downloaded from here: https://www.google.com/chrome/
+
+Eclipse IDE can be downloaded from here: https://www.eclipse.org/downloads/
+
+
 3. Download 'chromedriver.exe' file from this link: http://chromedriver.chromium.org/downloads
 
 4. Place this chrome driver at any location (place it at 'C:\chromedriver.exe')

@@ -35,8 +35,9 @@ Eclipse IDE can be downloaded from here: https://www.eclipse.org/downloads/
 
 12. The AnnotationTest.java file will open in the right window of eclipse.
 
-13. Edit line 21 of the code by replacing "F:\\Sanjay\\Selenium\\SeleniumFile\\chromedriver.exe" with the location of your locally placed chromedriver ("C:\\chromedriver.exe")
-    So, line 21 should now look like this:  System.setProperty("webdriver.chrome.driver","C:\\chromedriver.exe");
+13. Edit line 21 of the code by replacing "F:\\Sanjay\\Selenium\\SeleniumFile\\chromedriver.exe" with the path of your locally placed chromedriver ("C:\\chromedriver.exe")
+    So, line 21 should now look like this:  System.setProperty("webdriver.chrome.driver","C:\\chromedriver.exe");  
+    Note: Remember to give double back-slash in the path. 
 
 14. On the top tools bar, click on Run button(green button)->click Run As-> click TestNG Test -> Click OK on the Save and Launch dialogue box
 

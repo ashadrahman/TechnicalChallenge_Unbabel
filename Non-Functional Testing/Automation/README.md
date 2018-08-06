@@ -1,10 +1,15 @@
 Steps to run the automation script:
 
+* The development of the code is done on Windows10 OS, but it can be executed on any platform.
+
 1. Download the zip file 'TechnicalChallenge.zip' and unzip it.
 
-2. Required softwares- Google Chrome webrowser, Eclipse IDE, Selenium jar file(selenium-server-standalone-3.12.0.jar) and java jdk 1.8 installed on the system.
+2. Required softwares- Google Chrome webrowser, Eclipse IDE, Selenium jar file(selenium-server-standalone-3.13.0.jar) and java jdk 1.8 installed on the system.
 
-3. Download 'chromedriver.exe' file from this link 'http://chromedriver.chromium.org/downloads' 
+Selenium jar file can downloaded from here: https://www.seleniumhq.org/download/
+Java can be downloaded from here: https://java.com/en/download/
+
+3. Download 'chromedriver.exe' file from this link: http://chromedriver.chromium.org/downloads
 
 4. Place this chrome driver at any location (place it at 'C:\chromedriver.exe')
 
